@@ -1,0 +1,11 @@
+com\meli\magneto\domain\Secuence.class
+com\meli\magneto\domain\Mutants.class
+com\meli\magneto\controller\MutantController.class
+com\meli\magneto\controller\ResponseError.class
+com\meli\magneto\domain\StatsMapper.class
+com\meli\magneto\service\MutantService.class
+com\meli\magneto\service\GenericService.class
+com\meli\magneto\service\MutantServiceImpl.class
+com\meli\magneto\repositorry\MutantRepository.class
+com\meli\magneto\service\FindMutant.class
+com\meli\magneto\MagnetoApplication.class

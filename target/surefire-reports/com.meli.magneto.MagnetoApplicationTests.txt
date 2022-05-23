@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.meli.magneto.MagnetoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.009 s - in com.meli.magneto.MagnetoApplicationTests

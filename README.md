@@ -76,6 +76,7 @@ Para poder ejecutar el proyecto en local se debe tener en cuenta lo siguiente:
 * Crear una base de datos que se llame **mutant**
 * Modificar las credenciales de ingreso a la instancia/base de datos en el archivo **Aplication.properties** del proyecto ubicado en la ruta: *Magneto\src\main\resources*
 * Tener libre el puerto 9092 en el sistema
+* Levantar o iniciar los procesos del proyecto para que pueda funcionar como servidor local
 * Tener instalado o ejecutar desde el navegador el programa Postman
 
 Dentro de Postman se puede ejecutar los siguientes servicios según su necesidad
@@ -115,8 +116,8 @@ En este caso solo basta con ejecutar el link en Postman y tendrán la siguiente 
 ```
 ### Modo API
 ***
-Para poder ejecutar el servicio POST que es el encargado de validar y almacenar la secuencia, es necesario tener instalado o ejecutar desde el navegador el programa Postman o uno que cumpla la misma función.
-[Postman]https://www.postman.com/downloads/)
+Para poder ejecutar el servicio POST que es el encargado de validar y almacenar la secuencia, es necesario tener instalado o ejecutar desde el navegador el programa [Postman](https://www.postman.com/downloads/) o uno que cumpla la misma función.
+
 
 Luego puede ejecutar los siguientes links en postman según la necesidad de la prueba:
 
